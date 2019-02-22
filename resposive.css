@@ -1,0 +1,31 @@
+@media(max-width:670px){
+  .top{
+    text-align:center;
+    background-color:#000000;
+    width:100%;
+    color:white;
+    height:812px;
+    margin:0 auto;
+  }
+  .name{
+    font-size:40px;
+    letter-spacing:20px;
+    line-height:812px;
+  }
+  .box-one{
+    position:absolute;
+    left:20px;
+    top:100px;
+    text-align:left;
+  }
+  .box-two{
+    position:absolute;
+    right:20px;
+    top:600px;
+    text-align:center;
+  }
+}
+
+@media(max-width:1000px){
+
+}
